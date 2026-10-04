@@ -22,7 +22,7 @@ PHASES = (("DEV", "DEV", "6 stations, 2020-21, tuned here"), ("HOLDOUT_TIME", "H
           ("FRESH2", "Fresh 2", "12 more: 5 airports, 7 AWS"),
           ("FRESH3", "Fresh 3", "12 more: 7 US 20-min, 5 AWS"),
           ("FRESH4", "Fresh 4", "12 more: northern US, freezing winters"))
-REPO_URL = "github.com/Mahim56207/ATMOSGUARD"
+REPO_URL = "github.com/Mahim56207/ATMOSGUARD-SIH"
 
 
 def esc(s: str) -> str:

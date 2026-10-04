@@ -1,8 +1,8 @@
 # Handoff: everything that was done, what to submit, how to submit it
 
 Written for the person who makes the final deck. The deck itself is deliberately not in this repository. Everything else is.
-**Repository:** `github.com/Mahim56207/ATMOSGUARD`, branch **`dev`** (nothing was merged into `main` and no pull request was opened; download the branch as a ZIP from GitHub, or
-`git clone -b dev https://github.com/Mahim56207/ATMOSGUARD.git`). Deadline you gave: 6:00 pm IST on 29 Sep 2026.
+**Repository:** `github.com/Mahim56207/ATMOSGUARD-SIH`, branch **`dev`** (nothing was merged into `main` and no pull request was opened; download the branch as a ZIP from GitHub, or
+`git clone -b dev https://github.com/Mahim56207/ATMOSGUARD-SIH.git`). Deadline you gave: 6:00 pm IST on 29 Sep 2026.
 
 ## 1. What AtmosGuard is, in three sentences
 A monitor for one automatic weather station that uses only temperature, pressure and humidity. It decides for every reading whether it is `VALID`, real `WEATHER` (escalated, never deleted),

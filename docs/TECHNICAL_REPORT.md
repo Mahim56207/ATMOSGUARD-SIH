@@ -1,6 +1,6 @@
 # AtmosGuard: telling a broken sensor from real weather at one automatic weather station
 
-**Technical report.** Smart India Hackathon 2026, problem statement 26073. Repository: <https://github.com/Mahim56207/ATMOSGUARD>. Every number below is generated from the committed result files (`results/`), which are produced by the commands in `results/RUNS.md`.
+**Technical report.** Smart India Hackathon 2026, problem statement 26073. Repository: <https://github.com/Mahim56207/ATMOSGUARD-SIH>. Every number below is generated from the committed result files (`results/`), which are produced by the commands in `results/RUNS.md`.
 
 ## Abstract
 
