@@ -17,7 +17,7 @@ This page is written to be forwarded to someone at IMD (or a state AWS network) 
 
 ## For whoever runs it
 ```bash
-git clone https://github.com/Mahim56207/ATMOSGUARD && cd ATMOSGUARD
+git clone https://github.com/Mahim56207/ATMOSGUARD-SIH && cd ATMOSGUARD
 pip install -r requirements.txt            # or: docker build -t atmosguard .   (then run the same commands inside it)
 # 1. look at what the tool understands about your file, and write nothing:
 python -m data_tools.adapt_csv path/to/your_file.csv --inspect            # also reads .xlsx (pip install openpyxl)

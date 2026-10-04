@@ -5,7 +5,7 @@ A stranger with a laptop should be able to get from a fresh clone to every numbe
 unpinned versions of the same libraries).
 
 ```bash
-git clone https://github.com/Mahim56207/ATMOSGUARD && cd ATMOSGUARD
+git clone https://github.com/Mahim56207/ATMOSGUARD-SIH && cd ATMOSGUARD-SIH
 python -m venv .venv && source .venv/bin/activate     # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```

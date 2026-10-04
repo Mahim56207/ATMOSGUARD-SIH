@@ -52,7 +52,7 @@ guess email addresses.
 > Respected Sir/Madam,
 >
 > We are [team name], students of [college], participating in the Smart India Hackathon (problem statement 26073: anomaly detection and sensor health for an Automatic Weather Station using temperature, pressure and humidity only).
-> Our open-source system, AtmosGuard (github.com/Mahim56207/ATMOSGUARD), tells a failing sensor from real extreme weather using one station's own readings. It has been evaluated on real airport and automatic-station records
+> Our open-source system, AtmosGuard (github.com/Mahim56207/ATMOSGUARD-SIH), tells a failing sensor from real extreme weather using one station's own readings. It has been evaluated on real airport and automatic-station records
 > from public archives, but not on IMD AWS data, because that data is not public.
 >
 > We would be grateful for a small sample: **the raw records of one or two AWS stations for at least three years** (UTC timestamp, temperature, pressure, relative humidity; any cadence from 1 to 60 minutes), ideally with **any maintenance log or
@@ -63,6 +63,6 @@ guess email addresses.
 >
 > [names, college, phone, email]
 
-**Short version (WhatsApp / message to a mentor):** "Sir, could you help us get a small sample of real IMD AWS data (T, P, RH, 1-3 years, one or two stations, maintenance log if possible)? We built a sensor-fault detector for SIH PS 26073 and want to test it on real IMD records. Code: github.com/Mahim56207/ATMOSGUARD. We will keep it private and share the results."
+**Short version (WhatsApp / message to a mentor):** "Sir, could you help us get a small sample of real IMD AWS data (T, P, RH, 1-3 years, one or two stations, maintenance log if possible)? We built a sensor-fault detector for SIH PS 26073 and want to test it on real IMD records. Code: github.com/Mahim56207/ATMOSGUARD-SIH. We will keep it private and share the results."
 
 **If they say yes:** save the file as CSV with columns `timestamp,temperature_c,pressure_hpa,humidity_pct` (UTC) and run `python evaluate_csv.py file.csv --station NAME`; add `--quick` for a faster one-year pass.
